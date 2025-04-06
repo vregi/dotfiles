@@ -1,0 +1,1 @@
+/home/vregi/.config/fish/conf.d
